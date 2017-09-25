@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Program1</string>
+    <string name="fname">First Name: </string>
+    <string name="lname">Last Name: </string>
+    <string name="school">School: </string>
+    <string name="graduation">Year of Graduation </string>
+    <string name="degree">Degree: </string>
+    <string name="major">Major: </string>
+    <string name="favorite">Hobbies: </string>
+    <string name="message"></string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="extra">Did you do clubs/sports?</string>
+    <string-array name="degreeType">
+        <item>Associates</item>
+        <item>Bachelors</item>
+        <item>Masters</item>
+        <item>Docorate</item>
+    </string-array>
+</resources>
